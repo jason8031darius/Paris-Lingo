@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+.heading{
+     font-size: 15px;
+     border-radius: 6px;
+     box-shadow: 12px 12px rgb(45, 65, 96);
+     box-sizing: border-box;
+     isolation:inherit;
+}
+#title{
+    color: blue;
+    font: bolder;
+}
